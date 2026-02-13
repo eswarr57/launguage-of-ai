@@ -1,0 +1,8 @@
+C:\Users\kalig\OneDrive\Documents\masaischool>python game_score.py
+Enter player name: eswar
+Enter number of games played: 2
+Enter total score: 78
+Player: eswar
+Games Played: 2
+Total Score: 78
+Average Score: 39.0
